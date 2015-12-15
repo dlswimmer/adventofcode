@@ -2,6 +2,6 @@
 {
     public interface IDay
     {
-        string Run(string input);
+        string Run();
     }
 }
